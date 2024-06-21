@@ -1,4 +1,3 @@
-# Deep Learning for Biomedical Informatics Research Lab (DLBI)
 The aim of the Deep Learning for Biomedical Informatics Research Lab (DLBI) is to advance the field of biomedical informatics through the development and application of cutting-edge deep learning techniques. Our primary objectives are:
 
 - **Model Development**: To create end-to-end deep learning models that can effectively analyze and interpret complex biomedical signal and image data.
